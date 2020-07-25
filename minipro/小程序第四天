@@ -1,0 +1,18 @@
+1.事件传值
+
+当点击或者任意事件发生时，都可以绑定一个方法，把值传入方法中的办法是data-
+
+![image-20200724122238516](C:\Users\shiku\AppData\Roaming\Typora\typora-user-images\image-20200724122238516.png)
+
+![image-20200724122256186](C:\Users\shiku\AppData\Roaming\Typora\typora-user-images\image-20200724122256186.png)
+
+而vue 可以直接传值
+
+![image-20200724122349835](C:\Users\shiku\AppData\Roaming\Typora\typora-user-images\image-20200724122349835.png)
+
+![image-20200724122410408](C:\Users\shiku\AppData\Roaming\Typora\typora-user-images\image-20200724122410408.png)
+
+红线报错是因为使用了eslint
+
+2.
+

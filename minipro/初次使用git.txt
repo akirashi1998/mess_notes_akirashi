@@ -1,0 +1,13 @@
+2018年注册github为了获取一些好用的工具，但是直到今天才正式接触github的使用
+
+以本次notes为例，托管的时候在要托管的文件夹右键gitbash
+
+```
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/akirashi1998/notes.git
+git push -u origin master
+```
+
+但是不能提交空文件夹，不能提前做好构造再填内容，否则报错
